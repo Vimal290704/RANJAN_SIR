@@ -12,12 +12,12 @@ function App() {
           </div>
         </div>
         <PhoneCallCard />
-        {/* <elevenlabs-convai agent-id="7kEIi95RiFRHLSPKXCGU"></elevenlabs-convai>
+        <elevenlabs-convai agent-id="7kEIi95RiFRHLSPKXCGU"></elevenlabs-convai>
         <script
           src="https://elevenlabs.io/convai-widget/index.js"
           async
           type="text/javascript"
-        ></script> */}
+        ></script>
       </header>
 
       <footer className="text-center py-1 bg-gray-100">
